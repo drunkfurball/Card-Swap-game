@@ -1,0 +1,22 @@
+.card {
+    float: left;
+    background-color: snow;
+	border-radius: 5px;
+	width: 14px;
+    padding: 25px;
+    clear:none;
+    text-align: center;
+    border: 1px solid black;    
+}
+
+.card-btm {
+    float: left;
+    background-color: snow;
+	border-radius: 5px;
+	width: 14px;
+    padding: 25px;
+    clear:none;
+    text-align: center;
+    border: 1px solid black;
+    clear: left;
+}
